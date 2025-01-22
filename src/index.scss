@@ -19,6 +19,15 @@ code {
 
 }
 
+.fa {
+  color: white
+}
+
+.fa:hover {
+  color: #5000ca;
+  transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
+}
+
 a {
   text-decoration: none;
 }
@@ -123,6 +132,15 @@ p, a, strong, h1, h2, h3, h4, h5, label, button {
 
   .skills-container svg {
     color: #0d1116;
+  }
+
+  .fa {
+    color: #0d1116
+  }
+
+  .fa:hover {
+    color: #5000ca;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
   }
 
   .chip {
