@@ -38,7 +38,7 @@ function Main() {
             </a>
           </div>
           <h1>吳亭諺 | Ting-Yan Wu</h1>
-          <p>I'm a research assistant in Marce Lab at National Taiwan University in the Department of Civil Engineering. Earlier, I received my MS degree in Computer-Aided Engineering Division, Civil Engineering from NTU advised by Prof. Rih-Teng Wu. My research focuses on computer vision, deep learning, generative AI, structural health monitoring, and strcutral engineering.</p>
+          <p>I'm a research assistant in Marce Lab at National Taiwan University in the Department of Civil Engineering. Earlier, I received my MS degree in Computer-Aided Engineering Division, Civil Engineering from NTU advised by Prof. Rih-Teng Wu. My research focuses on computer vision, deep learning, generative AI, structural health monitoring, and structural engineering.</p>
 
           <div className="mobile_social_icons">
             <a href="mailto:tingyan@caece.net" target="_blank" rel="noreferrer">

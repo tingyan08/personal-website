@@ -4,7 +4,7 @@
 
 ## What is this?
 
-This personal website is designed and modified based on the template provided by [Yuji Sato](https://yujisatojr.github.io/react-portfolio-template/).
+This [personal website](https://tingyan08.github.io/personal-website/) is designed and modified based on the template provided by [Yuji Sato](https://yujisatojr.github.io/react-portfolio-template/).
 
 ## Quick Setup
 

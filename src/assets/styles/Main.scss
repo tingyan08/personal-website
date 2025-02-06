@@ -10,12 +10,13 @@
     width: 100%;
     padding: 0px 15%;
     min-height: 700px;
-    background-image: url("../images/bg-dark.png");
+    background-image: url("../images/dark.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
     background-position: center;
 }
+
 
 .about-section .content {
     text-align: left;
@@ -37,6 +38,7 @@
     }
 
     p {
+        text-align: justify;
         font-size: 1em;
         margin-block-start: 0px;
         margin-block-end: 0px;
