@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/personal-website/static/css/main.1a8ad7d1.css",
-    "main.js": "/personal-website/static/js/main.d7edc31f.js",
+    "main.css": "/personal-website/static/css/main.ee476012.css",
+    "main.js": "/personal-website/static/js/main.870c79a6.js",
     "static/js/453.0437a03d.chunk.js": "/personal-website/static/js/453.0437a03d.chunk.js",
+    "static/media/light.jpg": "/personal-website/static/media/light.00d775ebf288de08e047.jpg",
     "static/media/1. civil_hydraulic2021.png": "/personal-website/static/media/1. civil_hydraulic2021.8e60476dba108ca91346.png",
     "static/media/3. engineering-structures2023.png": "/personal-website/static/media/3. engineering-structures2023.cc201c9a7cfbf78e2f94.png",
-    "static/media/bg-light.png": "/personal-website/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/dark.jpg": "/personal-website/static/media/dark.0308ad9b2a46ee852bc0.jpg",
     "static/media/4. engineering-structures2025.png": "/personal-website/static/media/4. engineering-structures2025.941d44862054974894d2.png",
     "static/media/avatar.jpg": "/personal-website/static/media/avatar.7afe7c1a7b246d509bdc.jpg",
-    "static/media/bg-dark.png": "/personal-website/static/media/bg-dark.f420c6b8458af72de935.png",
     "static/media/2. IEEE_ICIT2023.png": "/personal-website/static/media/2. IEEE_ICIT2023.552a062f9c48c9533265.png",
     "static/media/ntu_logo.png": "/personal-website/static/media/ntu_logo.1532bc893c949cefd27a.png",
     "index.html": "/personal-website/index.html",
-    "main.1a8ad7d1.css.map": "/personal-website/static/css/main.1a8ad7d1.css.map",
-    "main.d7edc31f.js.map": "/personal-website/static/js/main.d7edc31f.js.map",
+    "main.ee476012.css.map": "/personal-website/static/css/main.ee476012.css.map",
+    "main.870c79a6.js.map": "/personal-website/static/js/main.870c79a6.js.map",
     "453.0437a03d.chunk.js.map": "/personal-website/static/js/453.0437a03d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1a8ad7d1.css",
-    "static/js/main.d7edc31f.js"
+    "static/css/main.ee476012.css",
+    "static/js/main.870c79a6.js"
   ]
 }
