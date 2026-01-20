@@ -38,7 +38,17 @@ function Main() {
             </a>
           </div>
           <h1>吳亭諺 | Ting-Yan Wu</h1>
-          <p>I'm a research assistant in Marce Lab at National Taiwan University in the Department of Civil Engineering. Earlier, I received my MS degree in Computer-Aided Engineering Division, Civil Engineering from NTU advised by Prof. Rih-Teng Wu. My research focuses on computer vision, deep learning, generative AI, structural health monitoring, and structural engineering.</p>
+          <p style={{ marginBottom: '20px' }}>
+            I am currently a Ph.D. student in the <a href="https://engineering.purdue.edu/CCE" target="_blank" rel="noreferrer">Lyles School of Civil and Construction Engineering</a> at <a href="https://www.purdue.edu" target="_blank" rel="noreferrer">Purdue University</a>, 
+            where I work in <a href="https://web.ics.purdue.edu/~jahansha/" target="_blank" rel="noreferrer">Smart Informatix Laboratory</a> held by <a href="https://scholar.google.com/citations?user=rDHdOQIAAAAJ&hl=en&oi=ao" target="_blank" rel="noreferrer">Dr. Mohammad R. Jahanshahi</a>. 
+            My research interests lie at the intersection of artificial intelligence and civil infrastructure, 
+            specifically focusing on computer vision, deep learning, generative AI, and structural health monitoring.
+          </p>
+
+          <p >
+            Prior to joining Purdue, I served as a Research Assistant in the Marce Lab at <a href="https://www.ntu.edu.tw" target="_blank" rel="noreferrer">National Taiwan University (NTU)</a>. 
+            I received my M.S. degree from the Computer-Aided Engineering Division at NTU, under the supervision of <a href="https://scholar.google.com/citations?user=jkEbHUEAAAAJ&hl=en&oi=ao" target="_blank" rel="noreferrer">Dr. Rih-Teng Wu</a>.
+          </p>
 
           <div className="mobile_social_icons">
             <a href="mailto:tingyan@caece.net" target="_blank" rel="noreferrer">

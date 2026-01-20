@@ -30,6 +30,7 @@ code {
 
 a {
   text-decoration: none;
+  font-weight: bold;
 }
 
 a:hover {
@@ -127,7 +128,14 @@ p, a, strong, h1, h2, h3, h4, h5, label, button {
   }
 
   .about-section {
-    background-image: url("./assets/images/light.jpg");
+    /* The rgba(255, 255, 255, 0.5) adds a 50% white overlay. 
+      Change to (0, 0, 0, 0.5) for a dark overlay. */
+    background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)),
+                      url("./assets/images/light.jpg");
+    
+    /* Ensure the image still covers the area properly */
+    background-size: cover;
+    background-position: center;
   }
 
   .skills-container svg {
